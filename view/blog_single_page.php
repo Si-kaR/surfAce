@@ -7,12 +7,11 @@
 
   <head>
     <!-- Required meta tags -->
-	<title>Surfing Responsive HTML Template</title>
+	<title>SurfAce Explorer</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Surfing Responsive HTML Template">
+	<meta name="description" content="SurfAce Explorer">
     <meta name="keywords" content="">
-    <meta name="author" content="Template Bundle">
     <meta name="MobileOptimized" content="320">
     <!--Srart Style -->
 
@@ -62,9 +61,6 @@
 							<ul>
 								<li><a class="active" href="index.php">home</a></li>
 								<li><a href="about_us.php">about</a></li>
-								<!-- <li><a href="events.php">events</a></li> -->
-								<li><a href="portfolio.php">portfolio</a></li>
-								<li><a href="team.php">our team</a></li>
 								<li><a href="#">Pages</a>
 									<ul class="wh_sub_menu">
 										<li><a href="events.php">Event</a></li>
@@ -73,15 +69,10 @@
 												<li> <a href="blog_single_page.php">blog single </a></li>
 											</ul>
 										</li>
-										<li class="nav-item"><a href="shop.php">shop <i class="fa fa-angle-right wh_right" aria-hidden="true"></i></a>
-											<ul class="wh_dd_menu">
-												<li> <a href="shop_single_page.php">shop single </a></li>
-											</ul>
-										</li>
-										<li><a href="cart.php">cart</a></li>
 									</ul>
 								</li>
-								<li><a href="contact.php">contact</a></li>
+								<li><a href="../login/register_view.php">Sign Up</a></li>
+								<li><a href="../login/login_view.php">Log in</a></li>
 							</ul>
 						</div>
 						<div class="toggle_btn">
@@ -297,7 +288,7 @@
 			<div class="row">
 				<div class="col-lg-4 col-md-12">
 					<div class="sr_footer_logo">
-						<a href="index.php"><img src="../assets/images/Surfing_white.png" alt="surfing footer logo"/></a>
+						<a href="index.php"><img src="../assets/images/logo/surfAceExtendedNoBGSlicedp.png" alt="surfing footer logo"/></a>
 						<p>If you use this site regularly and would like to help keep the site on the Internet, please consider.</p><br>
 						<h4>Contact Information</h4>
 						<p><img src="../assets/images/svg/old-handphone.svg" alt="surfing phone ican"/> +61-23456-89621, +62-25468-54714</p>

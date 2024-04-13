@@ -1,10 +1,3 @@
-<?php
-
-// include "../settings/connection.php";
-// include "../functions/select_role_fxn.php";
-
-?>
-
 
 <!-- Register_page -->
 <!DOCTYPE html>
@@ -28,11 +21,14 @@
 
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 
+    <link rel="shortcut icon" type="image/png" href="../assets/images/logo/surfAceExtendedNoBGSlicedp.png">
+
+
     <!-- End of Head Content -->
 </head>
 
 <body>
-    <img src="../assets/images/surfingman" alt="" />
+    <!-- <img src="../assets/images/surfingman" alt="" /> -->
 
     <div class="wrapper">
 
@@ -72,50 +68,12 @@
                     </div>
                 </div>
             </div>
-
-            <!-- Div for input box -->
-            <div class="input-box">
-                <!-- Family role selection -->
-                <div class="family-role-selection">
-                    <!-- Family role placeholder -->
-                    <!-- Family role dropdown -->
-                    <!-- <div class="family-role-dropdown">
-                        <select id="family_role" name="family_role" required>
-                            <option value="" selected disabled>Family Role</option>
-                             -->
-                             <?
-                             // php fetch_family_roles(); 
-                             ?>
-                            <!-- <option value="1">Father</option>
-                            <option value="2">Mother</option>
-                            <option value="3">Son</option>
-                            <option value="4">Daughter</option> -->
-                        <!-- </select>
-                    </div>
-                </div>
-                <i class="bx bxs-chevron-down"></i>
-            </div> -->
-
-            <!-- Div for input box -->
-            <!-- <div class="input-box"> -->
-                <!-- Date of Birth input -->
-                <!-- <input type="date" placeholder="Date of Birth" name="dob" id="dob" required min="1900-01-01" max="2024-02-15"> -->
-                <!-- Icon for date of birth -->
-                <!-- <i class='bx bx-calendar'></i>
-            </div> -->
-
-            <div class="input-box">
-                <!-- Date of Birth input -->
-                <input type="date" placeholder="Date of Birth" name="dob" id="dob" required min="1900-01-01" max="2024-02-15">
-                <!-- Icon for date of birth -->
-                <!-- <i class="bx bx-calendar" id="calendar-icon"></i> -->
-            </div>
-            
+          
             <!-- Div for input box -->
             <div class="input-box">
             <label for="phone_number"></label>
             <!-- Phone input -->
-            <input type="tel" 
+            <input type="phone" 
                     placeholder="Phone Number"
                     id="phone_number" name="phone_number" required
                     pattern="^(0[234689]([0-7]|9[0-4]))\d{7}$"
@@ -132,22 +90,6 @@
                 <!-- Icon for email -->
                 <i class='bx bx-mail-send'></i>
             </div>
-
-            <!-- Div for input box -->
-            <!-- <div class="input-box"> -->
-                <!-- Password input -->
-                <!-- <input type="password" placeholder="Password" name="password" id="password" required pattern=".{8,}" title="Password must be at least 8 characters long"> -->
-                <!-- Icon for password -->
-                <!-- <i class='bx bxs-lock-alt'></i> -->
-            <!-- </div> -->
-
-            <!-- Div for input box -->
-            <!-- <div class="input-box"> -->
-                <!-- Confirm Password input -->
-                <!-- <input type="password" placeholder="Confirm Password" name="confirm_password" id="confirm_password" required pattern=".{8,}" title="Password must be at least 8 characters long"> -->
-                <!-- Icon for confirm password -->
-                <!-- <i class='bx bxs-lock-alt'></i>
-            </div> -->
 
             <div class="input-box">
             <label for="password"></label>

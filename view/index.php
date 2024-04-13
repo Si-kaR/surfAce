@@ -3,12 +3,11 @@
 	<!-- Begin head -->
 <head>
 	<!-- Required meta tags -->
-	<title>Surfing Responsive HTML Template</title>
+	<title>SurfAce Explorer</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Surfing Responsive HTML Template">
+	<meta name="description" content="SurfAce Explorer">
 	<meta name="keywords" content="">
-	<meta name="author" content="Template Bundle">
 	<meta name="MobileOptimized" content="320">
 	<!--Srart Style -->
 
@@ -60,8 +59,6 @@
 									<li><a class="active" href="index.php">home</a></li>
 									<li><a href="about_us.php">about</a></li>
 									<!-- <li><a href="events.php">events</a></li> -->
-									<li><a href="portfolio.php">portfolio</a></li>
-									<li><a href="team.php">our team</a></li>
 									<li><a href="#">Pages</a>
 										<ul class="wh_sub_menu">
 											<li><a href="events.php">Event</a></li>
@@ -71,17 +68,10 @@
 													<li> <a href="blog_single_page.php">blog single </a></li>
 												</ul>
 											</li>
-											<li class="nav-item"><a href="shop.php">shop <i
-														class="fa fa-angle-right wh_right" aria-hidden="true"></i></a>
-												<ul class="wh_dd_menu">
-													<li> <a href="shop_single_page.php">shop single </a></li>
-												</ul>
-											</li>
-											<li><a href="cart.php">cart</a></li>
 										</ul>
 									</li>
-									<li><a href="contact.php">contact</a></li>
-									<li><a href="contact.php">Logout</a></li>
+									<li><a href="../login/register_view.php">Sign up</a></li>
+									<li><a href="../login/login_view.php">Log in</a></li>
 
 								</ul>
 							</div>
@@ -114,16 +104,14 @@
 					<div class="sr_our_details">
 						<div class="sr_our_flex">
 							<div class="sr_svg_img">
-								<img src="../assets/images/svg/new3.svg" alt="surfing services1" />
+								<img src="../assets/images/svg/new3.svg" alt=""/>
 								<span class="flaticon-bed"></span>
 							</div>
 							<div class="sr_our_text">
 								<h2>accommodation</h2>
 							</div>
 						</div>
-						<p>Sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque
-							porro
-							quisquam est, qui dolorem ipsum quia dolor sit amet.</p>
+						<p>Enjoy comfortable beachfront lodging with breathtaking views of the ocean.</p>
 						<a href="javascript:;" class="btn_small active">read more</a>
 					</div>
 				</div>
@@ -131,16 +119,14 @@
 					<div class="sr_our_details">
 						<div class="sr_our_flex">
 							<div class="sr_svg_img">
-								<img src="../assets/images/svg/new3.svg" alt="surfing services2" />
+								<img src="../assets/images/svg/new3.svg" alt=""/>
 								<span class="flaticon-surf"></span>
 							</div>
 							<div class="sr_our_text">
 								<h2>Equipment Rental</h2>
 							</div>
 						</div>
-						<p>Sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque
-							porro
-							quisquam est, qui dolorem ipsum quia dolor sit amet.</p>
+						<p>Rent top-quality surfboards and gear for an unforgettable day on the waves.</p>
 						<a href="javascript:;" class="btn_small active">read more</a>
 					</div>
 				</div>
@@ -148,16 +134,14 @@
 					<div class="sr_our_details">
 						<div class="sr_our_flex">
 							<div class="sr_svg_img">
-								<img src="../assets/images/svg/new3.svg" alt="surfing services3" />
+								<img src="../assets/images/svg/new3.svg" alt=""/>
 								<span class="flaticon-boat"></span>
 							</div>
 							<div class="sr_our_text">
 								<h2>Water Activities</h2>
 							</div>
 						</div>
-						<p>Sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque
-							porro
-							quisquam est, qui dolorem ipsum quia dolor sit amet.</p>
+						<p>Experience thrilling water sports including surfing, snorkeling, and paddleboarding.</p>
 						<a href="javascript:;" class="btn_small active">read more</a>
 					</div>
 				</div>
@@ -165,16 +149,14 @@
 					<div class="sr_our_details">
 						<div class="sr_our_flex">
 							<div class="sr_svg_img">
-								<img src="../assets/images/svg/new3.svg" alt="surfing services4" />
+								<img src="../assets/images/svg/new3.svg" alt=""/>
 								<span class="flaticon-hand-shake"></span>
 							</div>
 							<div class="sr_our_text">
 								<h2>Friendly</h2>
 							</div>
 						</div>
-						<p>Sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque
-							porro
-							quisquam est, qui dolorem ipsum quia dolor sit amet.</p>
+						<p>Our team is dedicated to providing warm hospitality and excellent customer service.</p>
 						<a href="javascript:;" class="btn_small active">read more</a>
 					</div>
 				</div>
@@ -182,16 +164,14 @@
 					<div class="sr_our_details">
 						<div class="sr_our_flex">
 							<div class="sr_svg_img">
-								<img src="../assets/images/svg/new3.svg" alt="surfing services5" />
+								<img src="../assets/images/svg/new3.svg" alt=""/>
 								<span class="flaticon-windsurfing"></span>
 							</div>
 							<div class="sr_our_text">
 								<h2>Windsurfing</h2>
 							</div>
 						</div>
-						<p>Sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque
-							porro
-							quisquam est, qui dolorem ipsum quia dolor sit amet.</p>
+						<p>Feel the exhilaration of windsurfing with expert instruction and top-of-the-line equipment.</p>
 						<a href="javascript:;" class="btn_small active">read more</a>
 					</div>
 				</div>
@@ -199,16 +179,14 @@
 					<div class="sr_our_details">
 						<div class="sr_our_flex">
 							<div class="sr_svg_img">
-								<img src="../assets/images/svg/new3.svg" alt="surfing services6" />
+								<img src="../assets/images/svg/new3.svg" alt=""/>
 								<span class="flaticon-magnifier"></span>
 							</div>
 							<div class="sr_our_text">
 								<h2>Inspection</h2>
 							</div>
 						</div>
-						<p>Sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque
-							porro
-							quisquam est, qui dolorem ipsum quia dolor sit amet.</p>
+						<p>Ensure safety and performance with our thorough equipment inspection and maintenance services.</p>
 						<a href="javascript:;" class="btn_small">read more</a>
 					</div>
 				</div>
@@ -217,91 +195,7 @@
 	</div>
 	<!-- Our Services -->
 
-	<!-- Check Our Shop -->
-	<div class="sr_check_shop">
-		<div class="container">
-			<div class="sr_about_details sr_shop_content">
-				<h1>shop</h1>
-				<h2>check our shop</h2>
-				<span>what we sell</span>
-			</div>
-			<div class="row">
-				<div class="col-xl-4 col-lg-12">
-					<div class="sr_surf_all">
-						<div class="sr_surf_boat">
-							<img src="../assets/images/red.png" alt="shop product red" />
-						</div>
-						<div class="sr_swiming_surfing wh_sr_swiming">
-							<ul>
-								<li class="active"><a href="javascript:;">red board</a></li>
-								<li><a href="javascript:;">surfboard</a></li>
-								<li>
-									<a href="javascript:;"><i class="fas fa-star"></i></a>
-									<a href="javascript:;"><i class="fas fa-star"></i></a>
-									<a href="javascript:;"><i class="fas fa-star"></i></a>
-									<a href="javascript:;"><i class="fas fa-star"></i></a>
-									<a href="javascript:;"><i class="fas fa-star"></i></a>
-								</li>
-								<li class="active"><a href="javascript:;">$ 18</a></li>
-							</ul>
-							<a href="shop.php" class="btn_small"><i class="fas fa-shopping-cart"></i>&nbsp; buy
-								now</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-xl-4 col-lg-12">
-					<div class="sr_surf_all">
-						<div class="sr_surf_boat">
-							<img src="../assets/images/Dolphin.png" alt="shop product dolphin" />
-						</div>
-						<div class="sr_swiming_surfing wh_sr_swiming">
-							<ul>
-								<li class="active"><a href="javascript:;">Dolphin Board</a></li>
-								<li><a href="javascript:;">surfboard</a></li>
-								<li>
-									<a href="javascript:;"><i class="fas fa-star"></i></a>
-									<a href="javascript:;"><i class="fas fa-star"></i></a>
-									<a href="javascript:;"><i class="fas fa-star"></i></a>
-									<a href="javascript:;"><i class="fas fa-star"></i></a>
-									<a href="javascript:;"><i class="fas fa-star"></i></a>
-								</li>
-								<li class="active"><a href="javascript:;">$ 18</a></li>
-							</ul>
-							<a href="shop.php" class="btn_small"><i class="fas fa-shopping-cart"></i>&nbsp; buy
-								now</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-xl-4 col-lg-12">
-					<div class="sr_surf_all">
-						<div class="sr_surf_boat">
-							<img src="../assets/images/Green.png" alt="shop product Green" />
-						</div>
-						<div class="sr_swiming_surfing wh_sr_swiming">
-							<ul>
-								<li class="active"><a href="javascript:;">Green Board</a></li>
-								<li><a href="javascript:;">surfboard</a></li>
-								<li>
-									<a href="javascript:;"><i class="fas fa-star"></i></a>
-									<a href="javascript:;"><i class="fas fa-star"></i></a>
-									<a href="javascript:;"><i class="fas fa-star"></i></a>
-									<a href="javascript:;"><i class="fas fa-star"></i></a>
-									<a href="javascript:;"><i class="fas fa-star"></i></a>
-								</li>
-								<li class="active"><a href="javascript:;">$ 18</a></li>
-							</ul>
-							<a href="shop.php" class="btn_small"><i class="fas fa-shopping-cart"></i>&nbsp; buy
-								now</a>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="sr_btn">
-				<a href="shop.php" class="btn_small">view more</a>
-			</div>
-		</div>
-	</div>
-	<!-- Check Our Shop -->
+	
 
 	<!-- Our Activities -->
 	<div class="sr_activities_section">
@@ -564,75 +458,13 @@
 	</div>
 	<!-- Latest Updates -->
 
-	<!-- Our Team -->
-	<div class="sr_team_section">
-		<div class="container">
-			<div class="sr_about_details sr_team_content">
-				<h1>team</h1>
-				<h2>Our trainers</h2>
-				<span>our Experinced team</span>
-			</div>
-			<div class="row">
-				<div class="col-lg-4 col-md-4">
-					<div class="sr_our_trainer">
-						<img src="../assets/images/team1.png" alt="surfing team1" />
-						<div class="sr_overlay">
-							<h4>jessliya parker</h4>
-							<p>wind surfer</p>
-							<ul>
-								<li><a href="javascript:;"><i class="fab fa-facebook-square"></i></a></li>
-								<li><a href="javascript:;"><i class="fab fa-google-plus-g"></i></a></li>
-								<li><a href="javascript:;"><i class="fab fa-instagram"></i></a></li>
-								<li><a href="javascript:;"><i class="fab fa-linkedin"></i></a></li>
-								<li><a href="javascript:;"><i class="fab fa-pinterest-square"></i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-4">
-					<div class="sr_our_trainer">
-						<img src="../assets/images/wind-girl.png" alt="surfing team2" />
-						<div class="sr_overlay">
-							<h4>jessliya parker</h4>
-							<p>wind surfer</p>
-							<ul>
-								<li><a href="javascript:;"><i class="fab fa-facebook-square"></i></a></li>
-								<li><a href="javascript:;"><i class="fab fa-google-plus-g"></i></a></li>
-								<li><a href="javascript:;"><i class="fab fa-instagram"></i></a></li>
-								<li><a href="javascript:;"><i class="fab fa-linkedin"></i></a></li>
-								<li><a href="javascript:;"><i class="fab fa-pinterest-square"></i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-4">
-					<div class="sr_our_trainer">
-						<img src="../assets/images/wind-boy.png" alt="surfing team3" />
-						<div class="sr_overlay">
-							<h4>jessliya parker</h4>
-							<p>wind surfer</p>
-							<ul>
-								<li><a href="javascript:;"><i class="fab fa-facebook-square"></i></a></li>
-								<li><a href="javascript:;"><i class="fab fa-google-plus-g"></i></a></li>
-								<li><a href="javascript:;"><i class="fab fa-instagram"></i></a></li>
-								<li><a href="javascript:;"><i class="fab fa-linkedin"></i></a></li>
-								<li><a href="javascript:;"><i class="fab fa-pinterest-square"></i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- Our Team -->
-
 	<!-- Footer -->
 	<div class="sr_footer">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4 col-md-12">
 					<div class="sr_footer_logo">
-						<a href="index.php"><img src="../assets/images/Surfing_white.png" alt="surfing footer logo" /></a>
+						<a href="index.php"><img src="../assets/images/logo/surfAceExtendedNoBGSlicedp.png" alt="surfing footer logo" /></a>
 						<p>If you use this site regularly and would like to help keep the site on the Internet, please
 							consider.</p><br>
 						<h4>Contact Information</h4>
@@ -663,7 +495,7 @@
 									<li><a href="javascript:;"><img src="../assets/images/svg/right-arrows-couple.svg"
 												alt="footer link arrow" /> Jet Skining</a></li>
 									<li><a href="javascript:;"><img src="../assets/images/svg/right-arrows-couple.svg"
-												alt="footer link arrow" /> Surfing Services</a></li>
+												alt="footer link arrow" /> <a href="../admin/admin.php">Surfing Services</a></a></li>
 								</ul>
 							</div>
 						</div>

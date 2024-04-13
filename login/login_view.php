@@ -17,6 +17,9 @@
 
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 
+    <link rel="shortcut icon" type="image/png" href="../assets/images/logo/surfAceExtendedNoBGSlicedp.png">
+
+
     <!-- End of Head Content -->
 </head>
 
@@ -33,7 +36,7 @@
 
         
         <!-- Heading -->
-        <h1>Login</h1> 
+        <h1>Administrator Login</h1> 
 
         <!--Div for input box -->
         <!-- <div class="input-box">  -->

@@ -8,12 +8,11 @@
 
   <head>
     <!-- Required meta tags -->
-	<title>Surfing Responsive HTML Template</title>
-    <meta charset="utf-8">
+	<title>SurfAce Explorer</title>
+	<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Surfing Responsive HTML Template">
+	<meta name="description" content="SurfAce Explorer">
     <meta name="keywords" content="">
-    <meta name="author" content="Template Bundle">
     <meta name="MobileOptimized" content="320">
     <!--Srart Style -->
 
@@ -65,8 +64,6 @@
 								<li><a class="active" href="index.php">home</a></li>
 								<li><a href="about_us.php">about</a></li>
 								<!-- <li><a href="events.php">events</a></li> -->
-								<li><a href="portfolio.php">portfolio</a></li>
-								<li><a href="team.php">our team</a></li>
 								<li><a href="#">Pages</a>
 									<ul class="wh_sub_menu">
 										<li><a href="events.php">Event</a></li>
@@ -75,15 +72,10 @@
 												<li> <a href="blog_single_page.php">blog single </a></li>
 											</ul>
 										</li>
-										<li class="nav-item"><a href="shop.php">shop <i class="fa fa-angle-right wh_right" aria-hidden="true"></i></a>
-											<ul class="wh_dd_menu">
-												<li> <a href="shop_single_page.php">shop single </a></li>
-											</ul>
-										</li>
-										<li><a href="cart.php">cart</a></li>
 									</ul>
 								</li>
-								<li><a href="contact.php">contact</a></li>
+								<li><a href="../login/register_view.php">Sign up</a></li>
+								<li><a href="../login/login_view.php">Log in</a></li>
 							</ul>
 						</div>
 						<div class="toggle_btn">
@@ -137,109 +129,7 @@
 	</div>
 	<!-- About us -->
 	
-	<!-- Our Services -->
-	<div class="sr_our_services">
-		<div class="container">
-			<div class="sr_about_details sr_our_what">
-				<h1>our services</h1>
-				<h2>our services</h2>
-				<span>what we provide</span>
-			</div>
-			<div class="row">
-				<div class="col-lg-4 col-md-6">
-					<div class="sr_our_details">
-						<div class="sr_our_flex">
-							<div class="sr_svg_img">
-								<img src="../assets/images/svg/new3.svg" alt=""/>
-								<span class="flaticon-bed"></span>
-							</div>
-							<div class="sr_our_text">
-								<h2>accommodation</h2>
-							</div>
-						</div>
-						<p>Enjoy comfortable beachfront lodging with breathtaking views of the ocean.</p>
-						<a href="javascript:;" class="btn_small active">read more</a>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="sr_our_details">
-						<div class="sr_our_flex">
-							<div class="sr_svg_img">
-								<img src="../assets/images/svg/new3.svg" alt=""/>
-								<span class="flaticon-surf"></span>
-							</div>
-							<div class="sr_our_text">
-								<h2>Equipment Rental</h2>
-							</div>
-						</div>
-						<p>Rent top-quality surfboards and gear for an unforgettable day on the waves.</p>
-						<a href="javascript:;" class="btn_small active">read more</a>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="sr_our_details">
-						<div class="sr_our_flex">
-							<div class="sr_svg_img">
-								<img src="../assets/images/svg/new3.svg" alt=""/>
-								<span class="flaticon-boat"></span>
-							</div>
-							<div class="sr_our_text">
-								<h2>Water Activities</h2>
-							</div>
-						</div>
-						<p>Experience thrilling water sports including surfing, snorkeling, and paddleboarding.</p>
-						<a href="javascript:;" class="btn_small active">read more</a>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="sr_our_details">
-						<div class="sr_our_flex">
-							<div class="sr_svg_img">
-								<img src="../assets/images/svg/new3.svg" alt=""/>
-								<span class="flaticon-hand-shake"></span>
-							</div>
-							<div class="sr_our_text">
-								<h2>Friendly</h2>
-							</div>
-						</div>
-						<p>Our team is dedicated to providing warm hospitality and excellent customer service.</p>
-						<a href="javascript:;" class="btn_small active">read more</a>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="sr_our_details">
-						<div class="sr_our_flex">
-							<div class="sr_svg_img">
-								<img src="../assets/images/svg/new3.svg" alt=""/>
-								<span class="flaticon-windsurfing"></span>
-							</div>
-							<div class="sr_our_text">
-								<h2>Windsurfing</h2>
-							</div>
-						</div>
-						<p>Feel the exhilaration of windsurfing with expert instruction and top-of-the-line equipment.</p>
-						<a href="javascript:;" class="btn_small active">read more</a>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="sr_our_details">
-						<div class="sr_our_flex">
-							<div class="sr_svg_img">
-								<img src="../assets/images/svg/new3.svg" alt=""/>
-								<span class="flaticon-magnifier"></span>
-							</div>
-							<div class="sr_our_text">
-								<h2>Inspection</h2>
-							</div>
-						</div>
-						<p>Ensure safety and performance with our thorough equipment inspection and maintenance services.</p>
-						<a href="javascript:;" class="btn_small">read more</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- Our Services -->
+	
 	
 	<!-- Progress -->
 	<div class="sr_progress_section">
@@ -523,7 +413,7 @@
 			<div class="row">
 				<div class="col-lg-4 col-md-12">
 					<div class="sr_footer_logo">
-						<a href="index.php"><img src="../assets/images/Surfing_white.png" alt="surfing footer logo"/></a>
+						<a href="index.php"><img src="../assets/images/logo/surfAceExtendedNoBGSlicedp.png" alt="surfing footer logo"/></a>
 						<p>If you use this site regularly and would like to help keep the site on the Internet, please consider.</p><br>
 						<h4>Contact Information</h4>
 						<p><img src="../assets/images/svg/old-handphone.svg" alt="surfing phone ican"/> +61-23456-89621, +62-25468-54714</p>

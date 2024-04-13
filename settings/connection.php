@@ -9,11 +9,12 @@
 $SERVER = "localhost";
 $USERNAME = "root";
 $PASSWORD = "";
-$DATABASE = "chores_mgt";
+$DATABASE = "surfAce_db";
 
 // Attempt MySQL/MariaDB connection
 $conn = new mysqli($SERVER, $USERNAME, $PASSWORD, $DATABASE) or die("Database not found");
 
+echo "1. ConnectionEchoes";
 // Checking connection
 if($conn->connect_error) {
     // Displaying error @ connection fail

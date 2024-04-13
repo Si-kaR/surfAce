@@ -20,7 +20,7 @@ if(isset($_POST['signin'])) {
                 $_SESSION['user_id'] = $row['pid'];
                 $_SESSION['role_id'] = $row['rid'];
 
-                header("Location: ../view/index.php");
+                header("Location: ../admin/admin.php");
             } else {
                 echo "Error: Incorrect password. Try again.";
                 header("Location: ../Login/login_view.php");
